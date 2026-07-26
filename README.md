@@ -5,6 +5,7 @@
 **Software developer from Denmark with a strong interest in AI and LLMs, primarily working with Python and C#.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ossi--1337-181717?style=flat-square&logo=github)](https://github.com/Ossi-1337)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oskar_Daniel_Olsen-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oskar-daniel-olsen/)
 
 </div>
 
