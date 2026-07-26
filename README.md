@@ -2,9 +2,7 @@
 
 # Hello, I'm Oskar
 
-**Software developer building practical tools for local development workflows.**
-
-I enjoy turning complex developer tooling into focused, reliable software.
+**Software developer from Denmark with a strong interest in AI and LLMs, primarily working with Python and C#.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ossi--1337-181717?style=flat-square&logo=github)](https://github.com/Ossi-1337)
 
