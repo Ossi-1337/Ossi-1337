@@ -43,3 +43,15 @@ Local Reader is a read-only MCP server and Codex skill for exploring large codeb
 with Ollama or OpenAI-compatible local models. It returns compact findings with
 file-and-line evidence while leaving planning, verification, security decisions,
 edits, and final answers to Codex.
+
+---
+
+### [Firefox Codex Plugin](https://github.com/Ossi-1337/firefox-codex-plugin)
+
+**Control regular Firefox tabs and signed-in sessions directly from Codex.**
+
+Firefox Codex Plugin connects Codex to Firefox through an authenticated local
+WebExtension. It supports navigation, page reading, clicks, text input, scrolling,
+screenshots, and concurrent tasks without a native host or separate bridge installation.
+
+_Development preview — Windows is verified; macOS and Linux are currently unverified._
