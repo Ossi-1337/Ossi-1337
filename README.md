@@ -20,15 +20,6 @@ Actio is a local-first workflow runner for YAML pipelines. It executes jobs in
 Docker, keeps run history, logs, caches, and artifacts on your machine, and
 includes both a CLI and a lightweight local web interface.
 
-**What it offers**
-
-- GitHub Actions-inspired YAML workflows
-- Isolated Docker-based job execution
-- Support for local, Docker, composite, and JavaScript actions
-- Local run history, logs, caches, and artifacts
-- Browser-based overview of runs, jobs, and security details
-- Explicit secret handling and configurable container security profiles
-
 ---
 
 ### [Financial Research Agent](https://github.com/Ossi-1337/financial-research-agent)
@@ -40,13 +31,15 @@ agents for financial reports, stock analysis, market context, and final synthesi
 It combines real financial data, source-linked evidence, local persistence, and
 swappable local or hosted LLM providers.
 
-**What it offers**
-
-- Multi-agent research coordinated through A2A
-- SEC filings, financial statements, and historical market data
-- Evidence-backed analysis with citations and inspectable sources
-- Markdown, HTML, and PDF report exports
-- Local web interface with persistent research sessions
-- Support for local and hosted LLM providers
-
 _Research software only — not an autonomous trading system or financial adviser._
+
+---
+
+### [Local Reader](https://github.com/Ossi-1337/codex-local-subagent)
+
+**Delegate broad repository reading to local LLMs while keeping Codex in control.**
+
+Local Reader is a read-only MCP server and Codex skill for exploring large codebases
+with Ollama or OpenAI-compatible local models. It returns compact findings with
+file-and-line evidence while leaving planning, verification, security decisions,
+edits, and final answers to Codex.
