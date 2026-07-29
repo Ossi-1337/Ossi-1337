@@ -35,7 +35,7 @@ _Research software only — not an autonomous trading system or financial advise
 
 ---
 
-### [Local Reader](https://github.com/Ossi-1337/codex-local-subagent)
+### [Codex Local Subagent](https://github.com/Ossi-1337/codex-local-subagent)
 
 **Delegate broad repository reading to local LLMs while keeping Codex in control.**
 
