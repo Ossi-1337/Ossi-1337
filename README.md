@@ -4,7 +4,7 @@
 
 **Software developer from Denmark with a strong interest in AI and LLMs.**
 
-Python · C# · .NET · TypeScript · Docker · FastAPI · MCP · LLM Systems
+Python · C# · .NET
 
 _Currently focused on local AI systems, developer tooling, and browser integrations._
 
